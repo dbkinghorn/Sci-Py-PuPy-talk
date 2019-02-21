@@ -3,10 +3,10 @@ Jupyter notebook from Feb 21 2019 Seattle Scientific Computing meetup
 
 ---
 # <p align="center">Scientific Computing with PyTorch<br> A Quantum Mechanics Example</p>
-##<p align="center">Dr. Donald B Kinghorn<br> [Puget Systems](https://www.pugetsystems.com)
+## <p align="center">Dr. Donald B Kinghorn<br> [Puget Systems](https://www.pugetsystems.com)
 
 
-###<p align="center">A Quantum Mechanics problem coded up in PyTorch?! Sure! Why not?
+### <p align="center">A Quantum Mechanics problem coded up in PyTorch?! Sure! Why not?
 
 ---
 
