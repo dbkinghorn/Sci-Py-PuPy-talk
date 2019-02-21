@@ -1,4 +1,4 @@
-# Sci-Py-PuPy-talk
+# Sci-Py-PuPPy-talk
 Jupyter notebook from Feb 21 2019 Seattle Scientific Computing meetup 
 Slides and code
 
