@@ -1,5 +1,6 @@
 # Sci-Py-PuPy-talk
 Jupyter notebook from Feb 21 2019 Seattle Scientific Computing meetup 
+Slides and code
 
 ---
 # <p align="center">Scientific Computing with PyTorch<br> A Quantum Mechanics Example</p>
